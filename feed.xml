@@ -3,10 +3,30 @@
     <title>v2</title>
     <link href="https://ncl2fth.github.io/wila-v2/feed.xml" rel="self" />
     <link href="https://ncl2fth.github.io/wila-v2" />
-    <updated>1969-12-31T18:00:00-06:00</updated>
+    <updated>2025-03-21T18:13:11-05:00</updated>
     <author>
         <name>author</name>
     </author>
     <id>https://ncl2fth.github.io/wila-v2</id>
 
+    <entry>
+        <title>test post 1</title>
+        <author>
+            <name>author</name>
+        </author>
+        <link href="https://ncl2fth.github.io/wila-v2/test-post-1.html"/>
+        <id>https://ncl2fth.github.io/wila-v2/test-post-1.html</id>
+
+        <updated>2025-03-21T18:13:11-05:00</updated>
+            <summary>
+                <![CDATA[
+                    test post 1 content
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test post 1 content</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

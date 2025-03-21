@@ -9,5 +9,19 @@
         "name": "author"
     },
     "items": [
+        {
+            "id": "https://ncl2fth.github.io/wila-v2/test-post-1.html",
+            "url": "https://ncl2fth.github.io/wila-v2/test-post-1.html",
+            "title": "test post 1",
+            "summary": "test post 1 content",
+            "content_html": "<p>test post 1 content</p>",
+            "author": {
+                "name": "author"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-21T18:13:11-05:00",
+            "date_modified": "2025-03-21T18:13:11-05:00"
+        }
     ]
 }
