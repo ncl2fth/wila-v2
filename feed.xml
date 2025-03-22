@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>v2</title>
+    <title>Why I Love America - A Naturalized View</title>
     <link href="https://ncl2fth.github.io/wila-v2/feed.xml" rel="self" />
     <link href="https://ncl2fth.github.io/wila-v2" />
-    <updated>2025-03-21T18:13:11-05:00</updated>
+    <updated>2025-03-21T19:59:55-05:00</updated>
     <author>
         <name>author</name>
     </author>
@@ -20,12 +20,13 @@
         <updated>2025-03-21T18:13:11-05:00</updated>
             <summary>
                 <![CDATA[
-                    test post 1 content
+                    test text post 1
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>test post 1 content</p>
+                <p>test text post 1</p>
+<p> </p>
             ]]>
         </content>
     </entry>

@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "v2",
+    "title": "Why I Love America - A Naturalized View",
     "description": "",
     "home_page_url": "https://ncl2fth.github.io/wila-v2",
     "feed_url": "https://ncl2fth.github.io/wila-v2/feed.json",
@@ -13,15 +13,15 @@
             "id": "https://ncl2fth.github.io/wila-v2/test-post-1.html",
             "url": "https://ncl2fth.github.io/wila-v2/test-post-1.html",
             "title": "test post 1",
-            "summary": "test post 1 content",
-            "content_html": "<p>test post 1 content</p>",
+            "summary": "test text post 1",
+            "content_html": "<p>test text post 1</p>\n<p> </p>",
             "author": {
                 "name": "author"
             },
             "tags": [
             ],
             "date_published": "2025-03-21T18:13:11-05:00",
-            "date_modified": "2025-03-21T18:13:11-05:00"
+            "date_modified": "2025-03-21T19:59:55-05:00"
         }
     ]
 }
