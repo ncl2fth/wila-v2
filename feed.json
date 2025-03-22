@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Why I Love America - A Naturalized View",
     "description": "",
-    "home_page_url": "https://ncl2fth.github.io/wila-v2",
-    "feed_url": "https://ncl2fth.github.io/wila-v2/feed.json",
+    "home_page_url": "https://www.whyiloveamerica.blog",
+    "feed_url": "https://www.whyiloveamerica.blog/feed.json",
     "user_comment": "",
     "author": {
         "name": "author"
     },
     "items": [
         {
-            "id": "https://ncl2fth.github.io/wila-v2/test-post-1.html",
-            "url": "https://ncl2fth.github.io/wila-v2/test-post-1.html",
+            "id": "https://www.whyiloveamerica.blog/test-post-1.html",
+            "url": "https://www.whyiloveamerica.blog/test-post-1.html",
             "title": "test post 1",
             "summary": "test text post 1",
             "content_html": "<p>test text post 1</p>\n<p> </p>",
